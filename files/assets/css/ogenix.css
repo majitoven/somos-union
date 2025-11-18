@@ -19,7 +19,7 @@
 --------------------------------------------------------------*/
 :root {
   --ogenix-font: 'Manrope', sans-serif;
-  --ogenix-font-two: 'Caveat', cursive;
+  --ogenix-font-two: 'Lato', sans-serif; /* <-- Add Lato here */
   --ogenix-reey-font: "reeyregular";
   --ogenix-white: #ffffff;
   --ogenix-white-rgb: 255, 255, 255;
@@ -54,6 +54,8 @@ body {
   line-height: 30px;
   font-weight: 500;
   direction: ltr;
+  background: #fff6e7;
+
 }
 
 body.locked {
@@ -2411,7 +2413,7 @@ ul {
 
 .main-slider__sub-title {
   font-size: 30px;
-  font-weight: 400;
+  font-weight: 300;
   color: var(--ogenix-gray);
   font-family: var(--ogenix-font-two);
   line-height: 30px;
