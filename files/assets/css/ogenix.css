@@ -459,7 +459,7 @@ ul {
 
 .main-header__logo {
   position: absolute;
-  background-color: var(--ogenix-black);
+  background-color: #fff6e7;
   padding: 0px 60px 0px;
   top: 0;
   bottom: 0;
@@ -477,7 +477,7 @@ ul {
 .main-header__top {
   position: relative;
   display: block;
-  background-color: var(--ogenix-black);
+  background-color: #fff6e7;
   z-index: 1;
 }
 
@@ -507,7 +507,7 @@ ul {
   position: relative;
   display: flex;
   align-items: center;
-  background-color: #223d17;
+  background-color: #fff6e7;
   padding: 13px 40px 13px;
   margin-left: 30px;
 }
@@ -517,7 +517,7 @@ ul {
   display: flex;
   align-items: center;
   font-size: 14px;
-  color: var(--ogenix-white);
+  color: var(--ogenix-black);
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
 }
@@ -614,7 +614,7 @@ ul {
   flex-wrap: wrap;
   padding: 0 60px;
   padding-left: 285px;
-  background-color: rgb(255, 255, 255);
+  background-color: #fff6e7;
   box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.05);
 }
 
